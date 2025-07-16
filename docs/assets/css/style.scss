@@ -5,16 +5,16 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+Mono);
 
 body {
-  padding: 0px 0 20px 0px;
+  padding: 0px 0 10px 0px;
   margin: 20px;
-  font: 14px 'Noto Sans';
+  font: 16px 'Noto Sans';
   color: #ffffff;
   font-weight: normal;
   background: #121212;
 }
 
 code {
-  font: 14px 'Noto Sans Mono';
+  font: 16px 'Noto Sans Mono';
   color: #888888;
   margin: 0 4px;
   padding: 4px 6px;
@@ -23,7 +23,7 @@ code {
 
 pre {
   padding:8px 15px;
-  background: #191919;
+  background: #242424;
   border-radius: 2px;
   border:1px solid #121212;
   box-shadow: inset 0 1px 3px rgba(0,0,0,.3);
@@ -49,4 +49,5 @@ h1, h2 {
 
 a {
   color: #33ccbb;
+  text-decoration: none;
 }
