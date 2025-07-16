@@ -38,8 +38,9 @@ pre {
   }
 }
 
-h1, h2, h3 {
-  line-height:1.1;
+h1, h2 {
+  padding-bottom: 1px;
+  border-bottom: 1px solid #888888;
 }
 
 a {
