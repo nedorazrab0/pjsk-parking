@@ -1,29 +1,14 @@
 ---
 ---
 
-/* @import "{{ site.theme }}";  this is the default */
-
 @import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.6.1/github-markdown.min.css";
 
 body {
   margin: 0;
 }
 
-@media (prefers-color-scheme: light) {
-  body {
-    /*
-    --color-canvas-default, copied from 
-    https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css
-    */
-    background-color: #ffffff;
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  body {
-    /* --color-canvas-default */
-    background-color: #0d1117;
-  }
+body {
+ background: #000000
 }
 
 .markdown-body {
