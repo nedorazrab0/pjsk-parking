@@ -7,7 +7,7 @@
 body {
   padding: 0px 0 0px 0px;
   margin: 24px;
-  font: 14px 'Noto Sans';
+  font: 14.25px 'Noto Sans';
   color: #ffffff;
   font-weight: normal;
   background: #121212;
@@ -15,7 +15,7 @@ body {
 }
 
 code {
-  font: 14.25px 'Noto Sans Mono';
+  font: 14px 'Noto Sans Mono';
   color: #ffffff;
   background: #242424;
   margin: 0 4px;
@@ -31,6 +31,7 @@ pre {
 
   code {
     color: #ffffff;
+    font: 14px 'Noto Sans Mono';
     margin: 0;
     padding: 0;
   }
