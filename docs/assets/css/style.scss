@@ -6,8 +6,8 @@
 
 body {
   padding: 0px 0 0px 0px;
-  margin: 24px;
-  font: 14.25px 'Noto Sans';
+  margin: 32px;
+  font: 14px 'Noto Sans';
   color: #ffffff;
   font-weight: normal;
   background: #121212;
@@ -19,7 +19,7 @@ code {
   color: #ffffff;
   background: #242424;
   margin: 0 4px;
-  border-radius: 6px;
+  border-radius: 4px;
 }
 
 pre {
@@ -27,7 +27,7 @@ pre {
   background: #242424;
   overflow: auto;
   overflow-y: hidden;
-  border-radius: 6px;
+  border-radius: 8px;
 
   code {
     color: #ffffff;
@@ -39,7 +39,7 @@ pre {
 h1, h2, h3, h4, h5, h6 {
   padding-top: 24px;
   padding-bottom: 2px;
-  margin: -8px;
+  margin: -16px;
 }
 
 h1, h2 {
