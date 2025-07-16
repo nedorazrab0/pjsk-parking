@@ -7,7 +7,7 @@
 body {
   padding: 0px 0 0px 0px;
   margin: 24px;
-  font: 14px 'Noto Sans';
+  font: 14.25px 'Noto Sans';
   color: #ffffff;
   font-weight: normal;
   background: #121212;
@@ -15,11 +15,11 @@ body {
 }
 
 code {
-  font: 14px 'Noto Sans Mono';
+  font: 14.25px 'Noto Sans Mono';
   color: #ffffff;
   background: #242424;
   margin: 0 4px;
-  border-radius: 8px;
+  border-radius: 6px;
 }
 
 pre {
@@ -27,7 +27,7 @@ pre {
   background: #242424;
   overflow: auto;
   overflow-y: hidden;
-  border-radius: 8px;
+  border-radius: 6px;
 
   code {
     color: #ffffff;
@@ -48,27 +48,27 @@ h1, h2 {
 }
 
 h1 {
-  font: 32px;
+  font: 48px;
 }
 
 h2 {
-  font: 24px;
+  font: 40px;
 }
 
 h3 {
-  font: 20px;
+  font: 32px;
 }
 
 h4 {
-  font: 16px;
+  font: 24px;
 }
 
 h5 {
-  font: 14px;
+  font: 20px;
 }
 
 h6 {
-  font: 12px;
+  font: 16px;
 }
 
 a {
