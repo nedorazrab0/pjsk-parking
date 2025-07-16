@@ -4,14 +4,15 @@
 body {
   padding: 0px 0 20px 0px;
   margin: 10px;
-  font: 14px NotoSans;
-  color: #f0e7d5;
+  font: 14px 'Noto Sans' sans-serif;
+  color: #ffffff;
   font-weight: normal;
-  background: #252525;
+  background: #111111;
 }
 
 code {
-  font: 14px NotoSansMono;
+  font: 14px 'Noto Sans Mono';
+  margin: 0 4px;
   padding: 4px 6px;
   border-radius: 2px;
 }
