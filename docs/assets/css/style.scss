@@ -15,14 +15,15 @@ body {
 
 code {
   font: 16px 'Noto Sans Mono';
-  color: #888888;
+  color: #ffffff;
+  background: #242424;
   margin: 0 4px;
   padding: 4px 6px;
   border-radius: 2px;
 }
 
 pre {
-  padding:8px 15px;
+  padding: 8px 16px;
   background: #242424;
   overflow: auto;
   overflow-y: hidden;
@@ -36,7 +37,7 @@ pre {
 
 h1, h2, h3, h4, h5, h6 {
   padding-top: 24px;
-  padding-bottom: 16px;
+  padding-bottom: 8px;
   margin: -10px;
 }
 
