@@ -5,9 +5,10 @@
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans+Mono);
 
 body {
-  padding: 0 0 -12px 0;
+  padding: 0 0 0 0;
+  padding-top: -12px;
   margin: 24px;
-  font: 14px "NotoSans";
+  font: 14px "Noto Sans";
   color: #ffffff;
   font-weight: normal;
   background: #121212;
@@ -15,7 +16,7 @@ body {
 }
 
 code {
-  font: 14px 'Noto Sans Mono';
+  font: 14px "Noto Sans Mono";
   color: #ffffff;
   background: #242424;
   margin: 0 4px;
@@ -31,7 +32,7 @@ pre {
 
   code {
     color: #ffffff;
-    font: 14px 'Noto Sans Mono';
+    font: 14px "Noto Sans Mono";
     margin: 0;
     padding: 0;
   }
@@ -49,27 +50,27 @@ h1, h2 {
 }
 
 h1 {
-  font: 900 48px 'Noto Sans';
+  font: 900 48px "Noto Sans";
 }
 
 h2 {
-  font: 900 32px 'Noto Sans';
+  font: 900 32px "Noto Sans";
 }
 
 h3 {
-  font: 900 24px 'Noto Sans';
+  font: 900 24px "Noto Sans";
 }
 
 h4 {
-  font: 900 20px 'Noto Sans';
+  font: 900 20px "Noto Sans";
 }
 
 h5 {
-  font: 900 16px 'Noto Sans';
+  font: 900 16px "Noto Sans";
 }
 
 h6 {
-  font: 900 14px 'Noto Sans';
+  font: 900 14px "Noto Sans";
 }
 
 a {
