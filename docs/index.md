@@ -1,7 +1,7 @@
 Here is a list of target points with conditions for getting them
 
 <div align="center">
-<a href="./assets/meme-miku.jpg"><img src="./assets/mmj-miku.png" style="width: 236px;" alt="miku"></a>
+  <a href="./assets/meme-miku.jpg"><img src="./assets/mmj-miku.webp" style="width: 236px;" alt="miku"></a>
 </div>
 
 ## Guide
