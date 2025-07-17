@@ -38,16 +38,17 @@ pre {
   }
 }
 
-img {
-  padding-bottom: -8px;
-}
-
 h1 {
   padding-top: 0px;
 }
 
 h2 {
-  padding-top: 8px;
+  padding-top: 0px;
+}
+
+h1, h2 {
+  padding-bottom: 16px;
+  border-bottom: 2px solid #242424;
 }
 
 h3, h4, h5 {
@@ -58,11 +59,6 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2px;
   line-height: 1;
   margin: -2px;
-}
-
-h1, h2 {
-  padding-bottom: 8px;
-  border-bottom: 2px solid #242424;
 }
 
 h1 {
