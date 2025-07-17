@@ -1,4 +1,4 @@
-![](https://storage.sekai.best/sekai-en-assets/stamp/stamp0753/stamp0753.png)
+![](./assets/mmj-miku.png)
 
 Here is a list of target points with conditions for getting them
 
