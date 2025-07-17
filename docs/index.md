@@ -1,6 +1,8 @@
-![](./assets/mmj-miku.png)
-
 Here is a list of target points with conditions for getting them
+
+<div align="center">
+<a href="https://github.com/nedorazrab0/pjsk-parking"><img src="./assets/mmj-miku.png" style="width: 236px;" alt="miku"></a>
+</div>
 
 ## Guide
 
