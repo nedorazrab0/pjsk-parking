@@ -12,7 +12,7 @@ easy with 0x
 ## Navigation
 
 To navigate this page, use anchor links like this
-`https://nedorazrab0.github.io/pjsk-parking/index.html#727`
+`https://nedorazrab0.github.io/pjsk-parking/#726`
 
 ## Points order
 
