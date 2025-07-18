@@ -7,17 +7,16 @@
 body {
   padding: 0 0 0 0;
   margin: 5vw;
-  font: 16px "Noto Sans";
+  font: 16px/1.5 "Noto Sans";
   color: #ffffff;
   font-weight: normal;
   background: #121212;
-  line-height: 1.5;
   max-width: 40em;
 }
 
 code {
   padding: 0 2px;
-  font: 16px "Noto Sans Mono";
+  font: 16px/1.5 "Noto Sans Mono";
   color: #ffffff;
   background: #242424;
   margin: 0 4px;
@@ -33,19 +32,15 @@ pre {
 
   code {
     color: #ffffff;
-    font: 16px "Noto Sans Mono";
+    font: 16px/1.5 "Noto Sans Mono";
     margin: 0;
     padding: 0;
   }
 }
 
 h1, h2 {
-  padding-bottom: 2px;
+  padding-top: 0;
   border-bottom: 1px solid #242424;
-}
-
-h1, h2 {
-  padding-top: 0px;
 }
 
 h3, h4, h5 {
@@ -54,10 +49,6 @@ h3, h4, h5 {
 
 h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2px;
-  margin: -2px;
-}
-
-h1, h2, h3, h4, h5, h6 {
   margin: -2px;
 }
 
