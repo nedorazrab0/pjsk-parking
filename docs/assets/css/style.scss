@@ -6,7 +6,7 @@
 
 body {
   padding: 0 0 0 0;
-  margin: 34px;
+  margin: 34%;
   font: 16px "Noto Sans";
   color: #ffffff;
   font-weight: normal;
@@ -54,6 +54,10 @@ h3, h4, h5 {
 
 h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2px;
+  margin: -2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
   margin: -2px;
 }
 
