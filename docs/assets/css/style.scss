@@ -16,6 +16,7 @@ body {
 }
 
 code {
+  padding: 2px 0;
   font: 16px "Noto Sans Mono";
   color: #ffffff;
   background: #242424;
@@ -66,7 +67,7 @@ h1 {
 }
 
 h2 {
-  font: 900 32px "Noto Sans";
+  font: 900 32px/1 "Noto Sans";
 }
 
 h3 {
