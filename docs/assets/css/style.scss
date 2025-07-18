@@ -39,11 +39,7 @@ pre {
   }
 }
 
-h1 {
-  padding-top: 0px;
-}
-
-h2 {
+h1, h2 {
   padding-top: 0px;
 }
 
@@ -58,12 +54,16 @@ h3, h4, h5 {
 
 h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2px;
-  line-height: 1;
   margin: -2px;
 }
 
+a {
+  color: #33ccbb;
+  text-decoration: none;
+}
+
 h1 {
-  font: 900 48px "Noto Sans";
+  font: 900 48px/1.1 "Noto Sans";
 }
 
 h2 {
@@ -71,22 +71,17 @@ h2 {
 }
 
 h3 {
-  font: 900 24px "Noto Sans";
+  font: 900 24px/1.1 "Noto Sans";
 }
 
 h4 {
-  font: 900 20px "Noto Sans";
+  font: 900 20px/1.1 "Noto Sans";
 }
 
 h5 {
-  font: 900 16px "Noto Sans";
+  font: 900 16px/1.1 "Noto Sans";
 }
 
 h6 {
-  font: 900 14px "Noto Sans";
-}
-
-a {
-  color: #33ccbb;
-  text-decoration: none;
+  font: 900 14px/1.1 "Noto Sans";
 }
