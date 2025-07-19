@@ -1,8 +1,8 @@
 ---
 ---
 
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans+Mono&display=swap);
-@import url(https://fonts.googleapis.com/css?family=Noto+Sans&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans+Mono);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans);
 
 body {
   padding: 0 1em 0 8vw;
@@ -19,7 +19,7 @@ img {
 
 code {
   padding: 0 2px;
-  font: 400 16px/1.5 "Noto Sans Mono" monospace;
+  font: 400 16px/1.5 "Noto Sans Mono";
   color: #ffffff;
   background: #242424;
   margin: 0 4px;
