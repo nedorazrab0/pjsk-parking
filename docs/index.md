@@ -1,8 +1,6 @@
 Here is a list of target points with conditions for getting them
 
-<div align="center">
-  <a href="./assets/meme-miku.webp"><img src="./assets/ganba-miku.webp" style="width: 236px;" alt="meme-miku" loading="lazy"></a>
-</div>
+<a href="./assets/meme-miku.webp"><img src="./assets/ganba-miku.webp" style="width: 236px;" alt="meme-miku" loading="lazy"></a>
 
 ## Guide
 
