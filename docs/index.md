@@ -1,7 +1,7 @@
 Here is a list of target points with conditions for getting them
 
-<div style="text-align: center;">
-  <a href="./assets/meme-miku.webp"><img src="https://raw.githubusercontent.com/nedorazrab0/pjsk-parking/main/docs/assets/ganba-miku.webp" style="width: 236px;" alt="meme-miku" loading="lazy"></a>
+<div style="class: text-center;">
+  <a href="https://raw.githubusercontent.com/nedorazrab0/pjsk-parking/main/assets/meme-miku.webp"><img src="https://raw.githubusercontent.com/nedorazrab0/pjsk-parking/main/assets/ganba-miku.webp" style="width: 236px;" alt="Meme Miku" loading="lazy"></a>
 </div>
 
 ## Guide
