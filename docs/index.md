@@ -1,6 +1,6 @@
 Here is a list of target points with conditions for getting them
 
-<div style="class: text-center;">
+<div class="text-center">
   <a href="https://raw.githubusercontent.com/nedorazrab0/pjsk-parking/main/assets/meme-miku.webp"><img src="https://raw.githubusercontent.com/nedorazrab0/pjsk-parking/main/assets/ganba-miku.webp" style="width: 236px;" alt="Meme Miku" loading="lazy"></a>
 </div>
 
