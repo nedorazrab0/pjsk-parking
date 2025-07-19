@@ -13,13 +13,9 @@ body {
   max-width: 40em;
 }
 
-.text-right {
-  text-align: right;
-}
-
 img {
  vertical-align: top;
- margin-bottom: -10px;
+ margin-bottom: -15px;
 }
 
 code {
@@ -46,6 +42,19 @@ pre {
   }
 }
 
+a {
+  color: #33ccbb;
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+
 h1, h2 {
   padding-top: 0;
   border-bottom: 1px solid #242424;
@@ -56,12 +65,7 @@ h3, h4, h5 {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: -10px;
-}
-
-a {
-  color: #33ccbb;
-  text-decoration: none;
+  margin-bottom: -15px;
 }
 
 h1 {
