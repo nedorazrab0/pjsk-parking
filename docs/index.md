@@ -11,7 +11,7 @@ easy with 0x
 
 ### Warning
 
-This is **does not** work on WL btw
+This **does not** work on WL btw
 
 ## Navigation
 
