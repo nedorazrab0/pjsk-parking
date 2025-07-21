@@ -7,7 +7,11 @@ Here is a list of target points with conditions for getting them
 ## Guide
 
 Use non event cards, all 1* 5MR (2% EB) and all 4* 0MR (50% EB), play ebi on
-easy with 0x (This is **does not** work on WL btw)
+easy with 0x
+
+### Warning
+
+This is **does not** work on WL btw
 
 ## Navigation
 
